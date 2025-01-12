@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Ocre chair",
+      "price": 250,
+      "image": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c1.avif",
+      "description": "Una cadira feta de fusta natural amb detalls i potes de metall"
+    },
+    {
+      "id": 2,
+      "name": "Dark brown chair",
+      "price": 120,
+      "image": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c2.avif",
+      "description": "Una cadira feta de fusta d'arbre fosca, amb un coixí de color ocre"
+    },
+    {
+      "id": 3,
+      "name": "White chair",
+      "price": 80,
+      "image": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c3.avif",
+      "description": "Cadira de fusta pintada de blanc, amb seient fet de palla"
+    },
+    {
+      "id": 4,
+      "name": "Metallic chair",
+      "price": 200,
+      "image": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c4.avif",
+      "description": "Cadira de base metàl·lica amb coixí granat al seient"
+    },
+    {
+      "id": 5,
+      "name": "Chair with a pillow",
+      "price": 170,
+      "image": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c5.avif",
+      "description": "Una cadira de color gris amb base de coixí i esquena"
+    },
+    {
+      "id": 6,
+      "name": "Wooden chair",
+      "price": 100,
+      "image": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c6.avif",
+      "description": "Una cadira de fusta geomètrica, amb esquena amb detalls"
+    },
+    {
+      "id": 7,
+      "name": "Green chair",
+      "price": 150,
+      "image": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c7.avif",
+      "description": "Una cadira amb base de fusta amb coixí verd al seient"
+    },
+    {
+      "id": 8,
+      "name": "Tall chair",
+      "price": 130,
+      "image": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c8.avif",
+      "description": "Una cadira feta de fusta clara amb esquena superior"
+    }
+  ]
+  
